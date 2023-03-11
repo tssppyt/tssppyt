@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tssppyt
-- 👀 I’m interested in Bach scripting
+- 👀 I’m interested in Batch scripting
 - 📫 How to reach me tsspp@outlook.com
 
 <!---
